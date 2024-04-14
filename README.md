@@ -1,1 +1,2 @@
-ini hanyalah latihan saja
+# ini hanyalah untuk latihan saja
+
